@@ -4,3 +4,5 @@ Projects done by Mohamed Rizwan on various Datasets
 2. Churn Model using Keras - Built a churn model to classify the users who are likely to leave the telecom company
 3. House Prices - Used Linear Regression and Predicted the House prices
 4. Time Series Forecasting ( SARIMA ) - EDA and Timeseries Forecasting on AirPassengers Dataset
+5. Advanced House Prices Prediction - Used Ensemble Techniques for Prediction of House Prices
+6. Iris Dataset
