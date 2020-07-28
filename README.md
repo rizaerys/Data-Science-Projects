@@ -6,3 +6,9 @@ Projects done by Mohamed Rizwan on various Datasets
 4. Time Series Forecasting ( SARIMA ) - EDA and Timeseries Forecasting on AirPassengers Dataset
 5. Advanced House Prices Prediction - Used Ensemble Techniques for Prediction of House Prices
 6. Iris Dataset - EDA and simple Classification Models on iris Dataset
+7. Boston Housing Dataset - 
+8. Titanic Dataset
+9. Wine Quality Dataset
+10. Quora Review Classification
+11. Ham Spam Classification
+12. 
