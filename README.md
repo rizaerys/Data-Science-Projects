@@ -5,4 +5,4 @@ Projects done by Mohamed Rizwan on various Datasets
 3. House Prices - Used Linear Regression and Predicted the House prices
 4. Time Series Forecasting ( SARIMA ) - EDA and Timeseries Forecasting on AirPassengers Dataset
 5. Advanced House Prices Prediction - Used Ensemble Techniques for Prediction of House Prices
-6. Iris Dataset
+6. Iris Dataset - EDA and simple Classification Models on iris Dataset
