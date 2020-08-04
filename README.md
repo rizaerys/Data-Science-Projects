@@ -11,4 +11,4 @@ Projects done by Mohamed Rizwan on various Datasets
 9. Wine Quality Dataset
 10. Quora Review Classification
 11. Ham Spam Classification
-12. 
+12. Loan Prediction - Logistic Regression, DTree,Random Forest, XGBoost for predicting who is the best customer for giving loan
